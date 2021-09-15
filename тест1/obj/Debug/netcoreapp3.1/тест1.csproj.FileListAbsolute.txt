@@ -1,0 +1,13 @@
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.csproj.AssemblyReference.cache
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.AssemblyInfoInputs.cache
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.AssemblyInfo.cs
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.csproj.CoreCompileInputs.cache
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.exe
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.deps.json
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.runtimeconfig.json
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.runtimeconfig.dev.json
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.dll
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\bin\Debug\netcoreapp3.1\тест1.pdb
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.dll
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.pdb
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\тест1\obj\Debug\netcoreapp3.1\тест1.genruntimeconfig.cache

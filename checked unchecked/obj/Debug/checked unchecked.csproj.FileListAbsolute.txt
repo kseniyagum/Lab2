@@ -1,0 +1,7 @@
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\bin\Debug\checked unchecked.exe.config
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\bin\Debug\checked unchecked.exe
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\bin\Debug\checked unchecked.pdb
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\obj\Debug\checked unchecked.csproj.AssemblyReference.cache
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\obj\Debug\checked unchecked.csproj.CoreCompileInputs.cache
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\obj\Debug\checked unchecked.exe
+D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\checked unchecked\obj\Debug\checked unchecked.pdb
