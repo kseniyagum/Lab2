@@ -5,3 +5,10 @@ D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\строки\obj\Debug\�
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\строки\obj\Debug\строки.csproj.CoreCompileInputs.cache
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\строки\obj\Debug\строки.exe
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\строки\obj\Debug\строки.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\obj\Debug\строки.csprojAssemblyReference.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\obj\Debug\строки.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\obj\Debug\строки.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\obj\Debug\строки.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\bin\Debug\строки.exe.config
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\bin\Debug\строки.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\строки\bin\Debug\строки.pdb

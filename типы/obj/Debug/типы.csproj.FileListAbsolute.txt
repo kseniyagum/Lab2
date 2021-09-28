@@ -5,3 +5,10 @@ D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\типы\obj\Debug\ти�
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\типы\obj\Debug\типы.csproj.CoreCompileInputs.cache
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\типы\obj\Debug\типы.exe
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\типы\obj\Debug\типы.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\bin\Debug\типы.exe.config
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\bin\Debug\типы.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\bin\Debug\типы.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\obj\Debug\типы.csprojAssemblyReference.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\obj\Debug\типы.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\obj\Debug\типы.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\типы\obj\Debug\типы.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\###УЧЕБА\\2 курс\\ООП\\2 лаба\\тест1\\тест1\\тест1.csproj": {}
+    "D:\\ООП\\Lab2\\тест1\\тест1.csproj": {}
   },
   "projects": {
-    "D:\\###УЧЕБА\\2 курс\\ООП\\2 лаба\\тест1\\тест1\\тест1.csproj": {
+    "D:\\ООП\\Lab2\\тест1\\тест1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\###УЧЕБА\\2 курс\\ООП\\2 лаба\\тест1\\тест1\\тест1.csproj",
+        "projectUniqueName": "D:\\ООП\\Lab2\\тест1\\тест1.csproj",
         "projectName": "тест1",
-        "projectPath": "D:\\###УЧЕБА\\2 курс\\ООП\\2 лаба\\тест1\\тест1\\тест1.csproj",
-        "packagesPath": "C:\\Users\\Jullia\\.nuget\\packages\\",
-        "outputPath": "D:\\###УЧЕБА\\2 курс\\ООП\\2 лаба\\тест1\\тест1\\obj\\",
+        "projectPath": "D:\\ООП\\Lab2\\тест1\\тест1.csproj",
+        "packagesPath": "C:\\Users\\Ksenia\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Lab2\\тест1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jullia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ksenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

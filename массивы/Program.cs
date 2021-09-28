@@ -18,7 +18,7 @@ namespace массивы
             {
                 for (int j = 0; j < myArr1.GetLength(1); j++)
                 {
-                    myArr1[i, j] = rnd.Next(10, 100);
+                    myArr1[i, j] = rnd.Next(10, 100); //получить случайное число от 10 до 100
                     Console.Write(myArr1[i, j] + "\t");
                 }
                 Console.WriteLine();
@@ -60,10 +60,9 @@ namespace массивы
 
             //d. Создайте неявно типизированные переменные для хранения массива и строки.
 
-                        var varArr = new[] { 4, 6, 8, 5, 8 };
-            var varStr = "oogabooga";
-
-            int k = 0;
+            var Arr = new[,] { { 0.2, 3.5 },
+                              { 3.3, -3.88 } };
+            var varStr = "ThisIsArray";
 
         }
     }

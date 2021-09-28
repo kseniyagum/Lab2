@@ -5,3 +5,9 @@ D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\массивы\obj\Debug
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\массивы\obj\Debug\массивы.exe
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\массивы\obj\Debug\массивы.pdb
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\массивы\obj\Debug\массивы.csproj.AssemblyReference.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\bin\Debug\массивы.exe.config
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\bin\Debug\массивы.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\bin\Debug\массивы.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\obj\Debug\массивы.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\obj\Debug\массивы.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\массивы\obj\Debug\массивы.pdb

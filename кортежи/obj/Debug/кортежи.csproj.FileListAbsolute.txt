@@ -5,3 +5,10 @@ D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\кортежи\obj\Debug
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\кортежи\obj\Debug\кортежи.csproj.CoreCompileInputs.cache
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\кортежи\obj\Debug\кортежи.exe
 D:\###УЧЕБА\2 курс\ООП\2 лаба\тест1\кортежи\obj\Debug\кортежи.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\obj\Debug\кортежи.csprojAssemblyReference.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\obj\Debug\кортежи.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\obj\Debug\кортежи.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\obj\Debug\кортежи.pdb
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\bin\Debug\кортежи.exe.config
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\bin\Debug\кортежи.exe
+C:\Users\Ksenia\Desktop\ООП пример\тест1\кортежи\bin\Debug\кортежи.pdb
