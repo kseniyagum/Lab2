@@ -83,7 +83,7 @@ namespace типы
 
             ////int i1 = Convert.ToInt32(Console.ReadLine());
             ////int i2 = Convert.ToInt32(Console.ReadLine());
-            //int i1 = 8; int i2 = 14;
+            //int i1 = 9; int i2 = 14;
             //int sum = i1 + i2;
             //Console.WriteLine("summ of i1 and i2 : " + sum);
             //string mystr1 = "343";
